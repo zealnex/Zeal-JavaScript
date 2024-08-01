@@ -17,3 +17,8 @@ To get started with Zeal JavaScript, you can clone this repository to your local
 
 ```bash
 git clone https://github.com/zealnex/zeal-javascript.git
+```
+
+## Knowledge Center
+
+- [Polyfill for Reduce](https://github.com/zealnex/Zeal-JavaScript/blob/main/array-prototype-reduce-polyfill.md)
